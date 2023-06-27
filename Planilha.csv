@@ -1,0 +1,33 @@
+Cliente;Situação;Formação;Idade;Número de filhos;Salários (em salários mínimos);Anos na seguradora;Motorista de aplicativo;Sinistros;Custos do conserto
+1;0=inadimplente ;Ensino médio completo;23;3;4;2;1=sim;1=sim;2243,57
+2;0=inadimplente ;Ensino superior incompleto;25;2;7,5;3;0=não;;0
+3;1=adimplente;Ensino médio completo;40;2;5,3;10;0=não;0=não;0
+4;1=adimplente;Ensino superior completo;28;1;8,5;5;1=sim;1=sim;2500,53
+5;1=adimplente;Ensino superior completo;35;0;8,3;5;0=não;0=não;0
+6;0=inadimplente ;Ensino superior incompleto;37;1;6,5;6;0=não;0=não;0
+7;1=adimplente;Ensino superior incompleto;28;2;7;1;0=não;0=não;0
+8;0=inadimplente ;Ensino médio completo;40;3;5,1;2;1=sim;1=sim;2250
+9;1=adimplente;Ensino superior completo;55;2;9;12;0=não;0=não;0
+10;1=adimplente;Ensino superior incompleto;27;2;7,2;7;0=não;1=sim;3700,3
+11;1=adimplente;Ensino médio completo;28;2;4,8;3;1=sim;1=sim;2300,72
+12;1=adimplente;Ensino superior completo;37;4;10;4;0=não;1=sim;1000,32
+13;0=inadimplente ;Ensino superior completo;32;0;12,3;3;0=não;0=não;0
+14;1=adimplente;Ensino superior completo;33;0;8,5;5;0=não;0=não;0
+15;1=adimplente;Ensino superior incompleto;24;3;6,7;6;0=não;1=sim;25000
+16;0=inadimplente ;Ensino superior completo;29;0;8,5;1;0=não;0=não;0
+17;1=adimplente;Ensino superior completo;30;1;8,8;4;0=não;0=não;0
+18;1=adimplente;Ensino superior incompleto;24;3;7,5;1;0=não;0=não;0
+19;1=adimplente;Ensino médio completo;23;2;7;1;1=sim;1=sim;4000,55
+20;1=adimplente;Ensino superior completo;40;1;8,6;6;1=sim;0=não;0
+21;0=inadimplente ;Ensino superior incompleto;32;1;7,2;4;0=não;0=não;0
+22;1=adimplente;Ensino superior incompleto;32;2;6;3;0=não;0=não;0
+23;1=adimplente;Ensino superior completo;28;0;8,4;4;0=não;0=não;0
+24;0=inadimplente ;Ensino médio completo;37;2;5,6;1;0=não;0=não;0
+25;1=adimplente;Ensino superior completo;25;1;8,6;4;0=não;1=sim;3250
+26;1=adimplente;Ensino médio completo;32;0;4,8;2;0=não;0=não;0
+27;1=adimplente;Ensino superior completo;35;2;;3;1=sim;1=sim;5000,47
+28;0=inadimplente ;Ensino superior incompleto;24;0;6;1;0=não;1=sim;10000
+29;1=adimplente;Ensino superior completo;40;0;7,9;1;0=não;0=não;0
+30;1=adimplente;Ensino superior completo;60;1;8,2;5;0=não;0=não;0
+31;0=inadimplente ;Ensino superior incompleto;27;0;7;1;0=não;0=não;0
+32;1=adimplente;Ensino médio completo;23;0;6;2;0=não;1=sim;5000
